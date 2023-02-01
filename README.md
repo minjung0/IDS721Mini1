@@ -1,6 +1,9 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+## Rust Mini Project #2: Number Guessing Game
 
-## References
+This is a simple guessing game where a user is supposed to guess a number between 1 and 10.  
+If your guess is too high or too low, you'll get a hint. 
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+### Usage
+
+1. cargo run -- guessing
+2. Guess the number.
